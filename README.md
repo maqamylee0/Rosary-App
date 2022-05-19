@@ -1,10 +1,9 @@
 # Pray Rosary
-A news and weather app built using Flutter.
-It displays the forecast for the day and also displays news articles which can be read by the app to the user(app reads the text out loud for the user).
+A simple Rosary app made with flutter.
 
 ## Screenshots
 
-![Screens](https://github.com/Computer-Science-GroupWork/NewsReader/blob/a4eb76136107f0567be81ce9cb0b499e50ca9810/Shots.png?raw=true)
+![Screens](https://github.com/maqamylee0/Rosary-App/blob/master/Choose%20day.png)
 
 ## Features of the app
  

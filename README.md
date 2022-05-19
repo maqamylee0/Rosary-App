@@ -3,7 +3,7 @@ A simple Rosary app made with flutter.
 
 ## Screenshots
 
-![Screens](https://github.com/maqamylee0/Rosary-App/blob/master/Choose%20day.png)
+![Screens](https://github.com/maqamylee0/Rosary-App/blob/master/Choose%20day%20(1).png)
 
 ## Features of the app
  
